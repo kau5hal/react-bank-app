@@ -1,0 +1,21 @@
+.main-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.sub-container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  column-gap: 14px;
+}
+
+
+.button-container{
+  display: flex;
+  justify-content: space-between;
+  column-gap: 10px;
+}
